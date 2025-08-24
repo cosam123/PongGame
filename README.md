@@ -4,7 +4,7 @@ A Pong created using python and turtle module
 
 1)Paste this into your terminal.
 
-git clone https://cosam123.github.io/PongGame/
+git clone https://cosam123.github.io/PongGame.git
 
 cd PongGame
 
